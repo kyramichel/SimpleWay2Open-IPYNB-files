@@ -1,5 +1,5 @@
 # SimpleWay2Open-IPYNB-files
-nbviewer
+## Using nbviewer
 
 
 If you can't open a Jupyter notebook on github, use nbviewer:
